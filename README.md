@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArtiomEzepchick&theme=slateorange&border_radius=30&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArtiomEzepchick&theme=slateorange&border_radius=5)](https://git.io/streak-stats)
 
 <!--
 **ArtiomEzepchick/ArtiomEzepchick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
