@@ -21,5 +21,3 @@ My skills and expertise allow me to transform complex concepts into intuitive an
 I am a team player, eager to collaborate, share ideas, and contribute to achieving common goals.
 
 Feel free to contact me!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArtiomEzepchick&theme=slateorange&border_radius=5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
