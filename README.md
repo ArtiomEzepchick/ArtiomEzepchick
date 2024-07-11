@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-I am a software engineer (1+ years of experience) with a passion for creating efficient and interactive user interfaces. 
+Software Engineer with almost two years of hands-on experience, specializing in React, TypeScript, and Next.js. Proficient in building and optimizing interactive user interfaces and improving application performance, experienced in developing complex web applications. Skilled in adhering to best coding practices such as SOLID, DRY, KISS, YAGNI, and various design patterns. 
 
-My tech stack: 
-* TypeScript
-* React.js 
-* Next.js
-* Redux (Redux Toolkit), Redux Saga/Redux Thunk
-* Javascript (ES6)
-* CSS/SASS (SCCS)
-* Styled-Components
-* Jest/React Testing Library
-* Webpack
-* Git/GitHub
-* Ant Design/Bootstrap.
-
-Also I have basic knowledge in Apollo, GraphQL, PostgreSQL, TypeORM, Node.js (Nest.js), Docker.
-
-My skills and expertise allow me to transform complex concepts into intuitive and appealing web applications. 
-I am a team player, eager to collaborate, share ideas, and contribute to achieving common goals.
+Tech stack: 
+• TypeScript
+• React.js 
+• Next.js
+• Redux (Redux Toolkit), Redux Saga/Redux Thunk
+• Javascript
+• CSS/SASS (SCCS)
+• Styled-Components
+• Jest/React Testing Library
+• Webpack
+• Git/GitHub
+• Ant Design/Bootstrap/Radix.
+• Apollo
+• GraphQL
+• PostgreSQL
+• TypeORM
+• Node (Nest.js)
+• Docker
 
 Feel free to contact me!
